@@ -1,0 +1,43 @@
+body
+{
+	font-family: Helvetica;
+}
+
+header
+{
+	padding-top: 15%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 24%;
+    background-color: #3B444B;
+}
+
+footer
+{
+	background-color: #F2F3F4;
+}
+
+#nombre
+{
+	font-family: "Roboto-Thin";
+	src: url("font/Roboto-Thin.ttf") format("truetype");
+	font-weight: 100;
+    font-size: 380%;
+    height: 74px;
+    width: 320px;
+    margin-bottom: auto;
+	/*background-color: #F2F3F4;*/
+	box-shadow: 1px 1px 0px 0px rgba(0,0,0,0.15);
+
+}
+
+#me
+{
+	font-family: "Roboto-Regular", Helvetica;
+	color: #F2F3F4;
+	src: url("font/Roboto-Regular.ttf") format("truetype");
+	font-weight: lighter;
+	/*margin-left: 5%;
+	margin-top: 2px;*/
+	width: 47%;
+}
