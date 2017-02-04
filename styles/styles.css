@@ -1,6 +1,6 @@
 body
 {
-	font-family: 'Open Sans', sans-serif;
+	font-family: pen Sans, sans-serif;
 	background-color: white;
 	width: 100%;
 }
@@ -23,16 +23,16 @@ footer
 
 #nombre
 {
-	font-family: "Roboto-Thin";
-	src: url("font/Roboto-Thin.ttf") format("truetype");
-	font-weight: 100;
+	font-family: Open Sans;
+    text-transform: uppercase;
+    font-weight: 100;
     font-size: 380%;
     height: 74px;
-    width: 320px;
+    width: 360px;
     margin-bottom: auto;
 	/*background-color: #F2F3F4;*/
 	box-shadow: 1px 1px 0px 0px rgba(0,0,0,0.15);
-
+	color: #E6E5E5;
 }
 
 #me
